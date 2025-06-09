@@ -1,8 +1,8 @@
    body {
       padding-top: 70px;
     }
-    h1, h2{
-       text-align:center;
+    h1 {
+       text-align: center;
     }
     .navbar {
       margin-bottom: 15px;
@@ -64,6 +64,6 @@
       font-weight: bold;
       margin: 0 10px;
     }
-footer{
-   text-align:center;
-}
+    footer{
+    text-align: center;
+    }
