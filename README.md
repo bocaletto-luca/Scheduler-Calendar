@@ -11,6 +11,10 @@
 ![Bootstrap](https://img.shields.io/badge/Style-Bootstrap-7952B3.svg)
 [![Maintenance](https://img.shields.io/badge/Maintained-Yes-brightgreen.svg)](https://github.com/bocaletto-luca)
 
+[![Test Online](https://img.shields.io/badge/Test%20Online-Click%20Here-brightgreen?style=for-the-badge)](https://bocaletto-luca.github.io/Scheduler-Calendar/)
+
+---
+
 Scheduler-Calendar is an interactive, responsive web application for managing your events, appointments, and reminders. It offers Annual, Monthly, Weekly, and Daily views with intuitive period navigation controls and robust event management. Data is automatically persisted via Local Storage and can be manually exported/imported as JSON files.
 
 ---
