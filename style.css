@@ -1,6 +1,9 @@
    body {
       padding-top: 70px;
     }
+    h1, h2{
+       text-align:center;
+    }
     .navbar {
       margin-bottom: 15px;
     }
