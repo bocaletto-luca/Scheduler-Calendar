@@ -1,0 +1,63 @@
+   body {
+      padding-top: 70px;
+    }
+    .navbar {
+      margin-bottom: 15px;
+    }
+    .calendar-container {
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    .calendar {
+      display: grid;
+      grid-template-columns: repeat(7, 1fr);
+      gap: 1px;
+      background-color: #ddd;
+    }
+    .calendar-day {
+      background: #fff;
+      min-height: 100px;
+      padding: 5px;
+      cursor: pointer;
+      position: relative;
+    }
+    .calendar-day:hover {
+      background: #f1f1f1;
+    }
+    .header-day {
+      background: #eee;
+      text-align: center;
+      font-weight: bold;
+      padding: 5px;
+    }
+    .event-item {
+      font-size: 0.8rem;
+      background-color: #d1e7dd;
+      margin-bottom: 2px;
+      padding: 2px 4px;
+      border-radius: 3px;
+      cursor: pointer;
+    }
+    .event-item:hover {
+      background-color: #ffecb3;
+    }
+    /* View Header for period navigation */
+    .view-header {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-bottom: 15px;
+    }
+    .view-header button {
+      background: none;
+      border: none;
+      font-size: 1.5rem;
+      padding: 0 10px;
+      cursor: pointer;
+    }
+    .view-header span {
+      font-size: 1.25rem;
+      font-weight: bold;
+      margin: 0 10px;
+    }
