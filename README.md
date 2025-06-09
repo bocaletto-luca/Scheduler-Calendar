@@ -23,7 +23,6 @@ Scheduler-Calendar is an interactive, responsive web application for managing yo
 
 - [Open the Application](#open-the-application)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [License](#license)
 - [Contact](#contact)
 
