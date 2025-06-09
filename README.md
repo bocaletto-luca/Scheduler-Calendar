@@ -61,18 +61,6 @@ Use the left («) and right (») arrows in the header to navigate between period
 
 ---
 
-## Screenshots
-
-### Monthly View
-![Monthly View](https://via.placeholder.com/800x400?text=Monthly+View)
-
-### Event Modal
-![Event Modal](https://via.placeholder.com/800x400?text=Add+or+Edit+Event)
-
-*Replace these placeholder images with actual screenshots of your application.*
-
----
-
 ## License
 
 This project is licensed under the **GPL v3** license. See [GPL v3](https://www.gnu.org/licenses/gpl-3.0) for more details.
